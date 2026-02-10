@@ -1,0 +1,30 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/cac83_next_dist_72ece242._.js",
+      "static/chunks/26dc7_assignments_copy darkmode_darkMode_my-app_src_app_favicon_ico_mjs_af202840._.js",
+      "static/chunks/[root-of-the-server]__351a1277._.css",
+      "static/chunks/cac83_next-themes_dist_index_mjs_e9caa35f._.js",
+      "static/chunks/26dc7_assignments_copy darkmode_darkMode_my-app_src_app_layout_tsx_7da61894._.js",
+      "static/chunks/cac83_next_dist_client_components_builtin_global-error_f04cd0cf.js",
+      "static/chunks/cac83_@splinetool_runtime_build_605b1e48._.js",
+      "static/chunks/cac83_motion-dom_dist_es_761898ee._.js",
+      "static/chunks/cac83_framer-motion_dist_es_e900088e._.js",
+      "static/chunks/cac83_react-icons_4f066c7b._.js",
+      "static/chunks/cac83_tailwind-merge_dist_bundle-mjs_mjs_bfa9ad06._.js",
+      "static/chunks/cac83_@splinetool_runtime_build_runtime_888bae42.js",
+      "static/chunks/_999a1feb._.js",
+      "static/chunks/13466_Desktop_my-funky-project_assignments_copy darkmode_darkMode_my-app_src_fd53a3a6._.js",
+      "static/chunks/26dc7_assignments_copy darkmode_darkMode_my-app_src_app_page_tsx_f04cd0cf._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_1bd4fe65._.js",
+      "static/chunks/cac83_next_dist_compiled_react-dom_5c302af2._.js",
+      "static/chunks/cac83_next_dist_compiled_next-devtools_index_db1ec620.js",
+      "static/chunks/cac83_next_dist_compiled_87ead9d1._.js",
+      "static/chunks/cac83_next_dist_client_6091d1b7._.js",
+      "static/chunks/cac83_next_dist_5f394f9d._.js",
+      "static/chunks/cac83_@swc_helpers_cjs_726aca9b._.js",
+      "static/chunks/13466_Desktop_my-funky-project_assignments_copy darkmode_darkMode_my-app_a0ff3932._.js",
+      "static/chunks/9f58e_Desktop_my-funky-project_assignments_copy darkmode_darkMode_my-app_604ceee8._.js"
+    ]
+  }
+}

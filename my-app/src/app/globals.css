@@ -1,0 +1,83 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@custom-variant dark (&:is(.dark *));
+
+/* :root{
+  --primary-color: #68BB59;
+  --primary-color-2: #ACDF87;   
+  --primary-color-3: #1E5631;
+  --secondary-color: #ffffff;
+  --secondary-color-2: #964734 ;
+  --secondary-color-3: #A4DE02;
+  
+} */
+
+
+:root{
+  /* Dark Theme */
+ --primary-color: #feffff ;
+ --primary-color-2: #2B7A78 ;
+ --primary-color-3: #3AAFA9 ;
+ --primary-color-4: #5D83C0 ;
+ --primary-color-5: #17252A ;
+ --primary-color-6: #3d3e3eba ;
+
+ /* Light Theme */
+ --secondary-color: #111311 ;
+ --secondary-color-2: #3A416F ;
+ --secondary-color-3: #10A3A2 ;
+ --secondary-color-4: #5D83C0 ;
+ --secondary-color-5: #dfdfdf ;
+ 
+ /* Form */
+ /* --accent-color: #10A3A2 ; */
+ --accent-color-3: #1d1d1d;
+ --accent-color-4: #393939;
+ --accent-color-2: #ffffff;
+ --accent-color: #ccc9c9;
+}
+/* :root{ */
+  /* Dark Theme */
+ /*--primary-color-1: #0B0C10;
+ --primary-color-2: #45A29E;
+ --primary-color-3: #66FCF1;
+ --primary-color-4: #C5C6C7;
+ --primary-color-5: #1F2833; */
+ /* Light Theme */
+ /* --secondary-color-1: #193C0D;
+ --secondary-color-2: #4E763B;
+ --secondary-color-3: #729C65;
+ --secondary-color-4: #637462;
+ --secondary-color-5: #6D835C; */
+ /* Form */
+ /*--accent-color-1: #393939;
+ --accent-color-2: #ffffff;
+} */
+
+
+
+
+body {
+  overflow-x: hidden;
+  font-family: Arial, Helvetica, sans-serif ;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  position: relative;
+
+}
+
+header{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  /* z-index: 999; */
+}
+
+
+

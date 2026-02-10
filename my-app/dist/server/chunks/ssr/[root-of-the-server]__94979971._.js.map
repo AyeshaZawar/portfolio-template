@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/bilal/OneDrive/Desktop/python%20library/assignments/darkMode/my-app/src/app/page.tsx"],"sourcesContent":["// import { Style } from \"./index.css\";\nimport { Button } from \"@/components/ui/button\"\n// import { motion } from \"framer-motion\"\nimport Header from \"../components/Header\";\nimport ThemeToggler from \"./ThemeToggler\";\nimport Home from \"./Home\";\n\nexport default function Homepage() {\n  return (\n   <>\n       \n       {/* <Header />\n       <Home />\n       <div className=\"min-h-screen flex items-center justify-center  text-gray-900 dark:text-white transition-all duration-300  \">\n       <ThemeToggler />\n      </div> */}\n\n  </>\n\n  )\n}\n"],"names":[],"mappings":"AAAA,uCAAuC;;;;;;AAOxB,SAAS;IACtB,qBACC;AAWH","debugId":null}}]
+}

@@ -1,0 +1,10 @@
+<div className="w-[50%] h-full flex items-center justify-center">
+
+
+
+h-screen w-full bg-gradient-to-br from-[var(--secondary-color-5)] to-[var(--secondary-color-3)]
+      dark:bg-gradient-to-br dark:from-[var(--primary-color-5)] dark:to-[var(--primary-color-4)]
+      flex items-center justify-between lg:px-24 px-10 overflow-hidden"
+    >
+      {/* Left side - Content */}
+      <div className="z-40 w-[50%]">

@@ -1,0 +1,15 @@
+{
+  "pages": {
+    "/favicon.ico/route": [
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_1bd4fe65._.js",
+      "static/chunks/cac83_next_dist_compiled_react-dom_5c302af2._.js",
+      "static/chunks/cac83_next_dist_compiled_next-devtools_index_db1ec620.js",
+      "static/chunks/cac83_next_dist_compiled_87ead9d1._.js",
+      "static/chunks/cac83_next_dist_client_6091d1b7._.js",
+      "static/chunks/cac83_next_dist_5f394f9d._.js",
+      "static/chunks/cac83_@swc_helpers_cjs_726aca9b._.js",
+      "static/chunks/13466_Desktop_my-funky-project_assignments_copy darkmode_darkMode_my-app_a0ff3932._.js",
+      "static/chunks/9f58e_Desktop_my-funky-project_assignments_copy darkmode_darkMode_my-app_604ceee8._.js"
+    ]
+  }
+}
