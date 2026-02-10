@@ -1,0 +1,41 @@
+[#003135]        dark blue green
+[#024950]        light blue green
+from-[#0FA4AF]   light blue 
+to-[#AFDDE5]     white with blue shade
+[#964734]        mehron orange on
+[#011245]        dark blue
+
+          // initial={{ opacity: 0, y: -20 }}
+          //   animate={{ opacity: 1, y: 0 }}
+          //   transition={{
+          //     type: "spring",
+          //      stiffness: 100,
+          //     damping: 20,
+          //      delay: 1.3,
+          //     duration: 1.5,
+          //   }}
+page .tsx 
+
+          // import { Style } from "./index.css";
+import { motion } from "framer-motion"
+import { Button } from "@/components/ui/button"
+import Header from "../components/Header";
+import ThemeToggler from "./ThemeToggler";
+import HeroSection from "../components/HeroSection";
+
+export default function Homepage() {
+  return (
+   <>
+       <Header />
+       <HeroSection />
+       <div className="min-h-screen flex items-center justify-center  text-gray-900 dark:text-white transition-all duration-300  ">
+       <ThemeToggler />
+      </div>
+  </>
+
+  )
+}
+\
+
+
+you update pg.tsx and dlt wrpper wali file 
